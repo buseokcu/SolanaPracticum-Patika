@@ -1,1 +1,3 @@
-# SolanaPraktikum
+# SolanaPracticum
+
+Core1 done
