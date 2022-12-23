@@ -1,0 +1,28 @@
+{
+    "name": "X Files #2",
+    "symbol": "X",
+    "description": "The X's that you can just look at.",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "shape",
+            "value": "plus"
+        },
+        {
+            "trait_type": "background",
+            "value": "brown"
+        },
+        {
+            "trait_type": "lines",
+            "value": "green"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

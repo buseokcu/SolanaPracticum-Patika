@@ -1,0 +1,28 @@
+{
+    "name": "X Files #3",
+    "symbol": "X",
+    "description": "The X's that you can just look at.",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "shape",
+            "value": "notso"
+        },
+        {
+            "trait_type": "background",
+            "value": "blue"
+        },
+        {
+            "trait_type": "lines",
+            "value": "purple"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
